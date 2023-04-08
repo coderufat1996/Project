@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yekun netice", "Yekun netice\Yekun netice.csproj", "{DAF2A295-3856-41E7-BC8B-F475BBCAA5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF2A295-3856-41E7-BC8B-F475BBCAA5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF2A295-3856-41E7-BC8B-F475BBCAA5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF2A295-3856-41E7-BC8B-F475BBCAA5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF2A295-3856-41E7-BC8B-F475BBCAA5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A55B27-52BF-4D71-8B45-C7487840E725}
+	EndGlobalSection
+EndGlobal
